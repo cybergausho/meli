@@ -49,8 +49,10 @@ class Api{
     public function requestApi(){
         //conexion a api y trae data
             $data= json_decode(file_get_contents("$this->url"), true);
-            $filtro= $this->limpiezaDatos($data);
-            $this->createLog($filtro);
+            if (!empty($data['results'][0])) {
+                $filtro= $this->limpiezaDatos($data);
+                $this->createLog($filtro);
+            } echo "El seller no posee items";
     }
 
     public function limpiezaDatos($data){
