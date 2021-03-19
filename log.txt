@@ -1,21 +1,411 @@
 
-19/03/2021 08:41:23
-        ID Seller: 1
+19/03/2021 08:50:20
+        ID Seller: 48166890
+        
+            ID Item: MLA620399412
+            Titulo del Item: Multimetro Digital Temperatura Capacidad Frecuencia 890g
+            Categoria ID: MLA30810
+            
+            ID Item: MLA825090632
+            Titulo del Item: Combo Electronica Soldador Estaño  Desoldador Lupa @l9
+            Categoria ID: MLA380652
+            
+            ID Item: MLA777587580
+            Titulo del Item: Tester Probador Cable De Red Y Telefonico Rj45 Rj11 8hilos+1
+            Categoria ID: MLA414103
+            
+            ID Item: MLA818219691
+            Titulo del Item: Fichas Rj45 Conector Red Cable Utp 1000mbps 5e Bolsa X100
+            Categoria ID: MLA72710
+            
+            ID Item: MLA603850410
+            Titulo del Item: Multimetro Digital Compacto Con Buzzer T830d
+            Categoria ID: MLA30810
+            
+            ID Item: MLA615452358
+            Titulo del Item: Cable Hdmi 5 Metros V1.4 Fullhd 3d C/ Filtro Dorado Vt-cable
+            Categoria ID: MLA431802
+            
+            ID Item: MLA681817283
+            Titulo del Item: Turbina Cooler Fan Extractor 220v Ruleman 4 Pulgadas 120x25m
+            Categoria ID: MLA2676
+            
+            ID Item: MLA816707482
+            Titulo del Item: Pinza Amperométrica Digital 1000 Amp Con Estuche T266
+            Categoria ID: MLA30763
+            
+            ID Item: MLA825575442
+            Titulo del Item: Combo Coaxil Tv Pinza Crimpeadora + Pelacable + 5 Fichas Rg6
+            Categoria ID: MLA412582
+            
+            ID Item: MLA603566579
+            Titulo del Item: Multimetro Digital Capacimetro Capacidad Hfe 20 Amp 200ma
+            Categoria ID: MLA30810
+            
+            ID Item: MLA620399442
+            Titulo del Item: Turbina Cooler Fan Extractor 220v Ruleman 4 Pulgadas 120x38m
+            Categoria ID: MLA2676
+            
+            ID Item: MLA873926454
+            Titulo del Item: Combo Electronica Multimetro Soldador Estaño Desoldador Lupa
+            Categoria ID: MLA30810
+            
+            ID Item: MLA823692367
+            Titulo del Item: Soporte Soldador Lupa Plaqueta Articulado Para Soldar C/ Led
+            Categoria ID: MLA380652
+            
+            ID Item: MLA618329276
+            Titulo del Item: Soldador Lápiz 40w Electrónica Punta Cerámica Profesional
+            Categoria ID: MLA380652
+            
+            ID Item: MLA658991359
+            Titulo del Item: Cooler Pc Fan Turbina 12 V 3 Pulgadas 80 X25mm C/ Molex
+            Categoria ID: MLA2676
+            
+            ID Item: MLA818746610
+            Titulo del Item: Estacion De Soldado Aire Caliente Smd Y Contacto Lapiz Hy952
+            Categoria ID: MLA372941
+            
+            ID Item: MLA644731074
+            Titulo del Item: Soporte Plaqueta Lupa Pinzas Articulado Soldar Electrónica.
+            Categoria ID: MLA380652
+            
+            ID Item: MLA620143601
+            Titulo del Item: Desoldador A Piston Chupador De Estaño Metálico 185mm.
+            Categoria ID: MLA380652
+            
+            ID Item: MLA615447293
+            Titulo del Item: Cable Audio Mini Plug 3.5 Rca 1.8 Metros. Premium
+            Categoria ID: MLA431802
+            
+            ID Item: MLA816707491
+            Titulo del Item: Soldador Pistola 30-70 Watts Estaño Electronica Con Neon
+            Categoria ID: MLA380652
+            
+            ID Item: MLA816707467
+            Titulo del Item: Soldador Pistola 30-130 Watts Estaño Electronica Con Neon
+            Categoria ID: MLA380652
+            
+            ID Item: MLA611578380
+            Titulo del Item: Alargue Para Auriculares Miniplug 3.5 Hembra Macho 5 Metros
+            Categoria ID: MLA431802
+            
+            ID Item: MLA614888267
+            Titulo del Item: Pinza Amperométrica Digital Con Buzzer. Dt87
+            Categoria ID: MLA30763
+            
+            ID Item: MLA826393531
+            Titulo del Item: Combo Crimpeadora Cable Red Utp Rj9/11/12/45 + Tester De Red
+            Categoria ID: MLA412582
+            
+            ID Item: MLA627476060
+            Titulo del Item: Desoldador Chupador Estaño Con Calefactor Vacio Electronica
+            Categoria ID: MLA380652
+            
+            ID Item: MLA816707450
+            Titulo del Item: Combo Pinza Amperometrica Multimetro Termometro Capacimetro
+            Categoria ID: MLA30763
+            
+            ID Item: MLA618915412
+            Titulo del Item: Soporte Tv Led Lcd 24 26 32 40 42 Pulgadas* Basculante
+            Categoria ID: MLA41925
+            
+            ID Item: MLA637133829
+            Titulo del Item: Cable Hdmi 1 Metro V1.4 Fullhd 3d 4k Dorado Ethernet.
+            Categoria ID: MLA431802
+            
+            ID Item: MLA620399431
+            Titulo del Item: Pelacable Automatico Profesional 025-4mm + Corte.
+            Categoria ID: MLA412577
+            
+            ID Item: MLA618046551
+            Titulo del Item: Set Herramientas Electricista Pinza Alicate Destornillador_
+            Categoria ID: MLA412520
+            
+            ID Item: MLA828360126
+            Titulo del Item: Turbina Cooler 80 X 80 X 25 12 Volts Buje Rpm 80x80x25 3pul
+            Categoria ID: MLA2676
+            
+            ID Item: MLA606188339
+            Titulo del Item: Cable Utp De Red Caja Rollo Bobina Cat5e 305m Excelente
+            Categoria ID: MLA4293
+            
+            ID Item: MLA618912850
+            Titulo del Item: Soporte Tv Lcd Led Articulado Doble Brazo 32 40 42 Vesa20x20
+            Categoria ID: MLA41925
+            
+            ID Item: MLA884776791
+            Titulo del Item: Soldador Pistola Profesional Lupa Plaqueta Estaño X 2 Punta
+            Categoria ID: MLA380652
+            
+            ID Item: MLA634761594
+            Titulo del Item: Medidor De Capacídad Digital Capacimetro
+            Categoria ID: MLA30810
+            
+            ID Item: MLA618585872
+            Titulo del Item: Cable Vga 5 Metros Mts. Contactos Dorados Y Filtro. Calidad
+            Categoria ID: MLA431809
+            
+            ID Item: MLA617020455
+            Titulo del Item: Cable Vga 3 Metros Mts Monitor Video Con Filtro De Ferrite
+            Categoria ID: MLA431809
+            
+            ID Item: MLA641132648
+            Titulo del Item: Combo Multimetro Digital 830d + Pinza Amperometrica Dt266 
+            Categoria ID: MLA30810
+            
+            ID Item: MLA608814102
+            Titulo del Item: Ficha Rj45 Utp Doble Contacto 100 Unidades Red Cat 5e.
+            Categoria ID: MLA72710
+            
+            ID Item: MLA618853992
+            Titulo del Item: Turbina Cooler Fan Extractor 220v Buje 4 Pulgadas 120x38mm
+            Categoria ID: MLA2676
+            
+            ID Item: MLA603850385
+            Titulo del Item: Soporte Tv Led Lcd  24 28 32 40 Pulgadas*. Fijo
+            Categoria ID: MLA41925
+            
+            ID Item: MLA603828738
+            Titulo del Item: Soporte Tv Brazo Extra Largo Reforzado 42 50 55 Vesa 400
+            Categoria ID: MLA41925
+            
+            ID Item: MLA614731442
+            Titulo del Item: Soporte Tv Led Lcd 24 26 32 Pulgadas Basculante
+            Categoria ID: MLA41925
+            
+            ID Item: MLA818188763
+            Titulo del Item: Bolsa X 100 Capuchones Rj45 Fichas Utp Conectores 
+            Categoria ID: MLA72710
+            
+            ID Item: MLA614732342
+            Titulo del Item: Soporte Lcd Tv Led 32 36 40 42 43 47 50 Pulgadas. Fijo
+            Categoria ID: MLA41925
+            
+            ID Item: MLA617935349
+            Titulo del Item: Cable Hdmi 15metros Dorado Filtro 4k 3d Hd
+            Categoria ID: MLA431802
+            
+            ID Item: MLA615447282
+            Titulo del Item: Turbina Cooler Extractor Fan 220v Ruleman 6 Pulgadas 150mm
+            Categoria ID: MLA2676
+            
+            ID Item: MLA615649058
+            Titulo del Item: Cable Para Guitarra Electrica Plug 6.3mm 2 Metros. Oferta_
+            Categoria ID: MLA4447
+            
+            ID Item: MLA823712252
+            Titulo del Item: Soporte Plaqueta Lupa Pinzas Articulado Soldar Electrónica.
+            Categoria ID: MLA380652
+            
+            ID Item: MLA618051683
+            Titulo del Item: Kit Herramientas Electricista Destornilladores Aislados 8u.
+            Categoria ID: MLA412520
+            
         
         
+19/03/2021 08:50:21
+        ID Seller: 179571326
         
-19/03/2021 08:41:56
-        ID Seller: 1
-        
-        
-        
-19/03/2021 08:42:00
-        ID Seller: 1
-        
-        
-        
-19/03/2021 08:42:52
-        ID Seller: 1
-        
+            ID Item: MLA863267784
+            Titulo del Item: Monitor Dell Professional P2018h Led 20  Negro 100v/240v
+            Categoria ID: MLA14407
+            
+            ID Item: MLA843116615
+            Titulo del Item: Monitor Dell P2419h Led 24  Negro 100v/240v
+            Categoria ID: MLA14407
+            
+            ID Item: MLA912271216
+            Titulo del Item:  Apc Smart-ups Rc Src1ki-ar 1000va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA874472550
+            Titulo del Item: Router Linksys Ea-series Ea6100  Negro 100v/240v
+            Categoria ID: MLA430901
+            
+            ID Item: MLA898898561
+            Titulo del Item: Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh  Blanco 100v/240v
+            Categoria ID: MLA430901
+            
+            ID Item: MLA870594510
+            Titulo del Item: Access Point, Router Linksys Max-stream Ea7300  Negro 100v/240v
+            Categoria ID: MLA430901
+            
+            ID Item: MLA912002253
+            Titulo del Item:  Apc Back-ups Bx550ci-ar 550va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912269713
+            Titulo del Item:  Apc Back-ups Pro 1200 Br1200g-ar 1200va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912273152
+            Titulo del Item:  Apc Back-ups Pro 1500 Br1500g-ar 1500va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912273972
+            Titulo del Item:  Apc Back-ups Pro 550 Br550g-ar 550va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912274211
+            Titulo del Item:  Apc Smart-ups Smt3000r2i-ar 3000va Con Entrada Y Salida De 220v/240v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA876794922
+            Titulo del Item: Impresora Multifunción Lexmark Mb2546adwe Con Wifi 220v Gris Y Blanca
+            Categoria ID: MLA1676
+            
+            ID Item: MLA884735971
+            Titulo del Item: Impresora Multifunción Lexmark Mb2442adwe Con Wifi 220v Gris Y Blanca
+            Categoria ID: MLA1676
+            
+            ID Item: MLA907606600
+            Titulo del Item: Impresora Lexmark B2338dw Con Wifi 220v Gris Y Blanca
+            Categoria ID: MLA1676
+            
+            ID Item: MLA912269991
+            Titulo del Item:  Apc Back-ups Pro 900 Br900g-ar 900va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912273096
+            Titulo del Item:  Apc Easy Ups Srv3000 Srv3ki-ar 3000va Con Entrada Y Salida De 220v/240v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912272809
+            Titulo del Item:  Apc Smart-ups Src3000xli 3000va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912269641
+            Titulo del Item:  Apc Back-ups Bx800ci-ar 800va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912270438
+            Titulo del Item:  Apc Back-ups Bx1100ci-ar 1100va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA912271997
+            Titulo del Item:  Apc Easy Ups Bv1000i-ar 1000va Con Entrada Y Salida De 230v  Negro
+            Categoria ID: MLA1720
+            
+            ID Item: MLA838441150
+            Titulo del Item: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia
+            Categoria ID: MLA1649
+            
+            ID Item: MLA906671838
+            Titulo del Item: Notebook Dell Inspiron Amd Ryzen 5 16gb 256ssd + 1tb Win10
+            Categoria ID: MLA1652
+            
+            ID Item: MLA665986505
+            Titulo del Item: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130
+            Categoria ID: MLA1649
+            
+            ID Item: MLA839086917
+            Titulo del Item: Router Linksys Ea8300 Tri Band Wifi Ac2200 Mu-mino Oferta
+            Categoria ID: MLA430901
+            
+            ID Item: MLA740540307
+            Titulo del Item: Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos
+            Categoria ID: MLA1649
+            
+            ID Item: MLA665712636
+            Titulo del Item: Notebook Dell I7 16gb 1tb + Ssd Windows 10
+            Categoria ID: MLA1652
+            
+            ID Item: MLA910712440
+            Titulo del Item: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial
+            Categoria ID: MLA1649
+            
+            ID Item: MLA685442693
+            Titulo del Item: Switch Cisco 24 Puertos Gigabit Rack 10/100/1000
+            Categoria ID: MLA1708
+            
+            ID Item: MLA838039921
+            Titulo del Item: Ups Apc Bv800i-ar 800v 4t Estabilizador Pc Gamer Simil Bx800
+            Categoria ID: MLA1720
+            
+            ID Item: MLA896718634
+            Titulo del Item: Servidor Poweredge Dell T40 Xeon E3-2224 16gb 2tb Hd Gtia
+            Categoria ID: MLA1649
+            
+            ID Item: MLA673439018
+            Titulo del Item: Notebook Laptop Dell Inspiron I3 8gb 1tb 15,6 Fhd Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+            Categoria ID: MLA1652
+            
+            ID Item: MLA604049998
+            Titulo del Item: Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650
+            Categoria ID: MLA1720
+            
+            ID Item: MLA862050665
+            Titulo del Item: Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas
+            Categoria ID: MLA1649
+            
+            ID Item: MLA696010903
+            Titulo del Item: Ups Apc Src2ki-ar 2000va Online Tower Src2ki
+            Categoria ID: MLA1720
+            
+            ID Item: MLA673321805
+            Titulo del Item: Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años
+            Categoria ID: MLA1720
+            
+            ID Item: MLA814217735
+            Titulo del Item: Servidor Dell T140 Xeon E3-2124 32gb 4tb Reemplazo T130
+            Categoria ID: MLA1649
+            
+            ID Item: MLA678026676
+            Titulo del Item: Switch Cisco 24 Puertos 10/100 Rackeable No Adm Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+            Categoria ID: MLA1708
+            
+            ID Item: MLA910713865
+            Titulo del Item: Pc Dell I3 4gb 1tb Windows 10 Pro Vostro Gtia Oficial
+            Categoria ID: MLA1649
+            
+            ID Item: MLA701423768
+            Titulo del Item: Switch Cisco 8 Puertos Port 10/100/1000 Giga Sg100 Oferta Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+            Categoria ID: MLA1708
+            
+            ID Item: MLA835811366
+            Titulo del Item: Switch Cisco Sg220-26 Gigabit Administrable + 2 Sfp
+            Categoria ID: MLA1708
+            
+            ID Item: MLA800415301
+            Titulo del Item: Servidor Dell T140 Xeon E3-2124 16gb 2tb Reemplazo T130
+            Categoria ID: MLA1649
+            
+            ID Item: MLA675284743
+            Titulo del Item: Router Cisco Rv160-k9-ar Cisco Rv160 Vpn Smb
+            Categoria ID: MLA430901
+            
+            ID Item: MLA835614791
+            Titulo del Item: Sf250-48-k9-ar Switch 48p Cisco Sf250-48 10/100 Rack
+            Categoria ID: MLA1708
+            
+            ID Item: MLA881141799
+            Titulo del Item: Notebook Laptop Dell Inspiron I3 32gb 1tb 14 Ubuntu 
+            Categoria ID: MLA1652
+            
+            ID Item: MLA663213659
+            Titulo del Item: Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B
+            Categoria ID: MLA1652
+            
+            ID Item: MLA609714711
+            Titulo del Item: Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550
+            Categoria ID: MLA1720
+            
+            ID Item: MLA714578081
+            Titulo del Item: Switch 24p Cisco Sg250-26 Giga 10/100/1000 Sg250-26-k9
+            Categoria ID: MLA1708
+            
+            ID Item: MLA714545399
+            Titulo del Item: Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9
+            Categoria ID: MLA1708
+            
+            ID Item: MLA835812799
+            Titulo del Item: Switch Cisco Sg220-26p Smart Plus 26 Puertos Giga Poe Admin
+            Categoria ID: MLA1708
+            
+            ID Item: MLA903304030
+            Titulo del Item: Notebook Dell Vostro I5 15.6 16gb 1tb + 480 Ssd Ubuntu Ñ
+            Categoria ID: MLA1652
+            
         
         

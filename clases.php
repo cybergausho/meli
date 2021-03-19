@@ -48,13 +48,14 @@ class Api{
    
     public function requestApi(){
         //conexion a api y trae data
-            $data= json_decode(file_get_contents("$this->url"), true);
-            if (!empty($data['results'][0])) {
-                $filtro= $this->limpiezaDatos($data);
-                $this->createLog($filtro);
-            } echo "El seller no posee items";
+        $data= json_decode(file_get_contents("$this->url"), true);
+        if (!empty($data['results'][0])) {
+            $filtro= $this->limpiezaDatos($data);
+            $this->createLog($filtro);
+        } else {
+            echo "El seller no posee items";
+        }
     }
-
     public function limpiezaDatos($data){
         //filtro los datos que necesitamos
         $this->msj = "
