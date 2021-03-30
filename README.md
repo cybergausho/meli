@@ -5,7 +5,7 @@ Challenge con la comunidad
 
 ### Pre-requisitos 
 
-_Servidor APACHE
+_ Servidor APACHE
 PHP =<7.1
 Navegador web
 _
